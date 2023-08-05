@@ -1452,7 +1452,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   screenCamera: {fileID: 461934804}
   demo: 1
-  blockID: R-M-2250038-9
+  blockID: 
   screenShotButton: {fileID: 1322937236}
   loadBarImage: {fileID: 1575575018}
 --- !u!1 &222133606

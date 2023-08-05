@@ -35725,7 +35725,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   demo: 1
-  blockID: R-M-2250038-1
+  blockID: 
   debug: 0
   availableBuyTickets: 0
   loadBar: {fileID: 1311907358}
@@ -35742,7 +35742,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   demo: 1
-  blockID: R-M-2250038-9
+  blockID: 
   loadBar: {fileID: 955006144}
 --- !u!114 &1572501583
 MonoBehaviour:
