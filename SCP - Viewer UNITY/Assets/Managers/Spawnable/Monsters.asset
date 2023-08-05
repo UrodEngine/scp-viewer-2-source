@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0efbb4fa6d4236248b3c2caf264d04ac, type: 3}
+  m_Name: Monsters
+  m_EditorClassIdentifier: 
+  prefabs:
+  - {fileID: 7831746201561508096, guid: 75ba2268e4cd2c04e939f8b4fead487c, type: 3}
+  - {fileID: 2922395280626089584, guid: d4d9d01805bd5464c9db42dd88004f56, type: 3}
+  - {fileID: 3732156978902013163, guid: 2ee30b3a3cf2ae949853e286a946378c, type: 3}
+  - {fileID: 8452944654691907480, guid: a453675cf15867344b65d2292067cbf4, type: 3}
+  - {fileID: 4144788135613536013, guid: 493a9221c81fa9f40a51884653f2f8ff, type: 3}
+  - {fileID: 3743388656007844498, guid: a0d24486b988ad84e896582a8fc89844, type: 3}
+  - {fileID: 7053879404442586265, guid: 9e42f48d97bfde44abf08889c8b603ee, type: 3}
+  - {fileID: 40992364309467822, guid: 2c52603f3b8548d4582e829afea48870, type: 3}
+  - {fileID: 5440807614243403475, guid: 9f8ee3b7116fbd641ac0d14a14d7105c, type: 3}
+  - {fileID: 6739700286451195354, guid: cbadf0a77fce4f14a944a5ed6b315139, type: 3}
+  - {fileID: 2180243626546504999, guid: 25fe4fdc7d621ad4292eca452495988d, type: 3}
+  - {fileID: 3943961167727982043, guid: d16316b3fbe84fd43a8d2ce91bbf4e91, type: 3}
+  - {fileID: 985631230368228254, guid: 0dcca15277ec9a24c924b46809b447e1, type: 3}
+  - {fileID: 3548581808294115804, guid: 07d83c055683dc64f981c9d643afe90d, type: 3}
+  - {fileID: 8573179069044025905, guid: 1679c7efc44417d4aae8bd90aec754fe, type: 3}
+  - {fileID: 3978269118502114614, guid: 3fd8a69b32698c4479d4d78360c53972, type: 3}
+  - {fileID: 3231008195126418091, guid: e2a8f9f671bbe4e4a86dace3ee3c37cf, type: 3}
+  - {fileID: 3231008195126418091, guid: e30a7dd4e69418748b288b53cb7ae7c5, type: 3}
+  - {fileID: 3231008195126418091, guid: 3dd644364dca60e47839cd1dadfbd2c9, type: 3}
+  - {fileID: 3231008195126418091, guid: 78e34d998eec4f84fb81b542028ef694, type: 3}
+  - {fileID: 3073811076573004430, guid: 2e2a29ff3ea751f49b2564a2a60c961b, type: 3}
+  - {fileID: 185102293966419038, guid: cd0a1fe89a9242042944c82b0f598bb5, type: 3}
+  - {fileID: 3073811076573004430, guid: dc2d66ccaab89f64a8fb89250976cace, type: 3}
+  - {fileID: 3073811076573004430, guid: 99e9538aeca8ac34b81591ce064df52c, type: 3}
+  - {fileID: 3073811076573004430, guid: 0b8ade407da924e4782702833595e71f, type: 3}
+  - {fileID: 7125479436559871097, guid: 627aab877b54c9f4f8414bb7fff08d7e, type: 3}
+  - {fileID: 61533321161318527, guid: 0afff848ffcf42a49a24975afc1dc48e, type: 3}
+  - {fileID: 3281425586735554459, guid: c4e36c21f54697341bdbca901be35f4c, type: 3}
+  managerKey: monsters

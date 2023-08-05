@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 457eae4f85637854e850747abd20e479
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Bicubik
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6009c97e322593a4985b367fce3d302d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

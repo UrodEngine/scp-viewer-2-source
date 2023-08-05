@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartUp.unity
+    guid: 74158fd0d1813494fac3579f11fc674d
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2f8f34e4ff177014ca09fa5009ccc656
+  - enabled: 1
+    path: Assets/Scenes/Gameplay.unity
+    guid: e495f107fe982944b87499171e9f6484
+  - enabled: 1
+    path: Assets/Scenes/KeyCard generator.unity
+    guid: b80075cd8206efc4b9a2998490efefa7
+  - enabled: 1
+    path: Assets/Scenes/ROOMS/Complex1.unity
+    guid: 64ff4dc30c54b264f818bdb5ee6e48f7
+  - enabled: 1
+    path: Assets/Scenes/ROOMS/SCPV1 map.unity
+    guid: 6d92fb258971c334cbb179b51a8f9280
+  - enabled: 1
+    path: Assets/Scenes/ROOMS/SCP201.unity
+    guid: 9a0e651fdbb79e347b9515f52072bb97
+  - enabled: 1
+    path: Assets/Scenes/ROOMS/SCP106_world.unity
+    guid: 205bc91f58a5a7a41beb37480d9fd7bf
+  - enabled: 1
+    path: Assets/Scenes/ROOMS/SCP002.unity
+    guid: 9efc9df2828464c4ab06e75c3b192c3b
+  - enabled: 1
+    path: Assets/Scenes/ROOMS/RedLake.unity
+    guid: b21a9230939983c428953cc63345f1aa
+  m_configObjects: {}

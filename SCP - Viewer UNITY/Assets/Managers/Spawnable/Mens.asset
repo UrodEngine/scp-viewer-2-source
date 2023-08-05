@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0efbb4fa6d4236248b3c2caf264d04ac, type: 3}
+  m_Name: Mens
+  m_EditorClassIdentifier: 
+  prefabs:
+  - {fileID: 7400564790922276346, guid: 11c31882d7fb7ac4eac31c0f8048c67d, type: 3}
+  - {fileID: 7400564790922276346, guid: 7533ff9828f3b6d48a0db88500cedf00, type: 3}
+  - {fileID: 7400564790922276346, guid: c72a86647e1b27345a96a712e346c62e, type: 3}
+  - {fileID: 7400564790922276346, guid: 6302937c58298a24eab016a68d2db81e, type: 3}
+  - {fileID: 7400564790922276346, guid: a06be73d61482614aae64e4e70afd5e5, type: 3}
+  managerKey: mens

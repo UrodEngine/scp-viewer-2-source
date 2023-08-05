@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6b89a370b5481c948ac13c7337f62782
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CsvFile: {fileID: 4900000, guid: e36359036937afc4f9e5476d4da2e456, type: 3}
+  - SCP_file: {fileID: 4900000, guid: 7981b2de1c8690d4982fab4a6909efb6, type: 3}
+  - PROP_file: {fileID: 4900000, guid: 500611bb329918c4387f06b405c6ea69, type: 3}
+  - NPC_file: {fileID: 4900000, guid: af859dd69d7359f4e97af4f1a2b7aa5d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

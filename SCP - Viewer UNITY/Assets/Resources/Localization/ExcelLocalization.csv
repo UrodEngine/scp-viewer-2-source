@@ -1,0 +1,65 @@
+﻿___keys;ENG;RUS;ITALIAN;ARAB
+_SP_SEL;CREATE OBJECT;СОЗДАТЬ ОБЪЕКТ;CREA OGGETTO;إنشاء كائن
+_FPS_C;FPS;FPS;FPS;FPS
+BTN_PROP;PROP;ДЕКОР;DECORAZIONE;ديكور
+BTN_MEN;MEN;ЛЮДИ;PERSONE;رجال
+BTN_SCP;SCP;СЦП;MOSTRI;مسخ
+BTN_EXIT;EXIT;ВЫЙТИ;DISCONNETTERSI;إطفاء
+BTN_CLOSE;CLOSE;ЗАКРЫТЬ;CHIUDERE;أغلق
+BTN_PLAY;TURN ON;ВКЛЮЧИТЬ;ACCENDERE;شغله
+BTN_OPT;OPTIONS;НАСТРОЙКИ;IMPOSTAZIONI;إعدادات
+BTN_ADDIT;ADDITIONAL;ДОПОЛНЕНИЯ;AGGIUNTE;الإضافات
+_TITLA;SCP-VIEWER 2;SCP-ЗРИТЕЛЬ 2;SCP-SPETTATORE 2;SCP-مشاهد 2
+BTN_APPL;APPLY;ПРИНЯТЬ;APPLICARE;يتقدم
+BTN_RST;RESET;СБРОС;RIPRISTINA;إعادة تعيين
+-TXT_RNDRQ;Render quality;Качество рендера;Qualità di rendering;جودة العرض
+-TXT_QTEXT;Textures quality;Качество текстур;Qualità delle texture;جودة الملمس
+___opt_TypeGraphic;Graphics options;Настройки графики;Impostazioni grafiche;إعدادات الرسومات
+___opt_TypeLanguage;Language settings;Настройки языка;Impostazioni della lingua;اعدادات اللغة
+BTN_OK;OK;OK;ok;موافق
+nothing;Sorry. This section is currently empty. The project appeared only recently and has not had time to develop yet. (further development is planned);Простите. Сейчас в этом разделе пусто. Проект появился только недавно и еще не успел развиться. (планируется дальнейшее развитие);Scusa. Questa sezione è attualmente vuota. Il progetto è apparso solo di recente e non ha ancora avuto il tempo di svilupparsi. (è previsto un ulteriore sviluppo);آسف. هذا القسم فارغ حاليا. ظهر المشروع مؤخرًا فقط ولم يتح له الوقت لتطويره بعد. (تم التخطيط لمزيد من التطوير);
+-TXT_LOAD;Loading: ;Загрузка: ;Caricamento: ;جار التحميل: 
+-TXT_SelSCENE;Select scene:;Выбрать сцену:;Seleziona scena:;حدد المشهد:
+-TXT_MBLUR;Blur (NOT RECOMMENDED);Размытие (НЕ РЕКОМЕНДУЕТСЯ);Sfocatura (NON RACCOMANDATO);طمس (غير مستحسن)
+BTN_ENABL;ENABLE;ВКЛЮЧИТЬ;ABILITARE;يمكن
+BTN_DISABL;DISABLE;ВЫКЛЮЧИТЬ;DISATTIVARE;إبطال
+-TXT_MENU;MENU;МЕНЮ;MENÙ;قائمة
+BTN_ONMENU;Exit to menu;Выйти в меню;Esci al menu;الخروج من القائمة
+BTN_KILLALL;Kill all interactive objects;Убить все интерактивные объекты;Uccidi tutti gli oggetti interattivi;اقتل كل الأشياء التفاعلية
+BTN_KILLEnt;Kill only entities;Убивать только сущностей;Uccidi solo entità;اقتل الكيانات فقط
+BTN_HATS;Hats;Шапки;CAPPELLI;القبعات
+BTN_Buy;Buy;Купить;Acquistare;يشتري
+BTN_WatchAds;Get +3 "buy hat";Получить +3 "купить шапку";Ottieni +3 "compra cappello";الحصول على +3 "شراء قبعة"
+-TXT_hats;You can take hats: ;Вы можете взять головные уборы: ;Puoi prendere i cappelli: ; يمكنك أن تأخذ القبعات: ;
+BTN_AVAILABLE;Available;Доступно;A disposizione;متاح
+BTN_TUTOR;Tutorial;Обучение;Istruzione;تعليم
+-TXT_informer_01;Now by touch input you can create instance;Теперь с помощью сенсорного ввода вы можете создать объект;Ora con l'input tattile puoi creare un'istanza;الآن عن طريق الإدخال باللمس يمكنك إنشاء مثيل;
+BTN_Updates;UPDATES;ОБНОВЛЕНИЯ;AGGIORNAMENTI;التحديثات
+-TXT_lockerCreate;You cannot create an object while you are moving;Вы не можете создать объект во время движения;Non puoi creare un oggetto mentre ti muovi;لا يمكنك إنشاء كائن أثناء تحركك;
+-TXT_HATSC;When creating a person, it will have one of the selected hats;При создании человека на нем будет одна из выбранных шапок;Quando crei una persona, avrà uno dei cappelli selezionati;عند إنشاء شخص ، سيكون لديه إحدى القبعات المختارة;
+-TXT_HATSC2;If the hat selection doesn't work, restart the game.;Если выбор шапки не работает, перезапустите игру.;Se la selezione del cappello non funziona, riavvia il gioco.;إذا لم يعمل اختيار القبعة ، أعد تشغيل اللعبة.;
+-TXT_createobj;You have selected this object.By pressing your finger on the screen you can create this object;Вы выбрали этот объект.Нажав пальцем по экрану вы сможете создать этот объект;Hai selezionato questo oggetto.Premendo il dito sullo schermo è possibile creare questo oggetto;لقد حددت هذا الكائن.بالضغط بإصبعك على الشاشة ، يمكنك إنشاء هذا الكائن;
+BTN_WEAPONS;WEAPONS;ОРУЖИЕ;ARMI;الأسلحة
+BTN_TOOLS;TOOLS;ИНСТРУМЕНТЫ;UTENSILI;أدوات
+BTN_MAPS;MAPS;КАРТЫ;MAPPE;خرائط
+-TXT_DETAILQ;Increased detail;Повышенная детализация;Maggiori dettagli;زيادة التفاصيل
+-TXT_CKgen;KeyCard generator;KeyCard генератор;Generatore di KeyCard;مولد البطاقة الرئيسية
+-CKgenBTN_0;Rotation;Поворот;rotazione;دوران
+-CKgenBTN_1;Appearance;Внешний вид;Aspetto;مظهر
+-CKgenLine_0;Card Position: View;Положение карты: Вид;Posizione della carta: Vista;موقف البطاقة: عرض;
+-CKgenLine_1;Appearance of the Key Card;Внешний вид Ключ-Карты;Aspetto della Key Card;ظهور بطاقة المفتاح
+-CKgenText_0;Select photo;Выбрать фото;Seleziona foto;اختر الصور;
+___opt_OtherSettings;Other settings;Прочие настройки;Altre impostazioni;اعدادات اخرى
+-TXT_enablePreviewFM;Enable preview in file explorer;Включить превью в файловом проводнике;Abilita l'anteprima in Esplora file;تمكين المعاينة في مستكشف الملفات
+BTN_SCP;BACK;НАЗАД;INDIETRO;الى الخلف
+___opt_PostProcess;Post-processing;Постобработка;Post produzione;المعالجة البعدية
+___opt_Bloom;Bloom;Свечение;Fioritura;يزدهر
+___opt_Chromatic;Chromatic aberration;Хроматическая аберрация;Aberrazione cromatica;انحراف لوني
+-TXT_ManualMove;Manual control;Ручное управление;Controllo manuale;التحكم اليدوي;
+-TXT_PastObjects;Past objects;Прошлые объекты;Oggetti del passato;الأشياء الماضية;
+-TXT_SelectObject;Select object;Выбрать объект;Seleziona oggetto;حدد الكائن;
+_TXT_shopInfo;You will be able to take 3 hats only after watching ads;Вы сможете взять 3 шапки только после просмотра рекламы;Sarai in grado di prendere 3 cappelli solo dopo aver visto gli annunci;ستتمكن من أخذ 3 قبعات فقط بعد مشاهدة الإعلانات;
+_TXT_deadMens;Number of people killed;Количество убитых людей;Numero di persone uccise;عدد القتلى;
+___opt_Noise;Noise;Шум;Rumore;ضوضاء
+BTN_MODS;Mods;Моды;Mod;تعديل
+___opt_NoiseEnabled;Enable noise;Включить шум;Attiva il rumore;قم بتشغيل الضوضاء
