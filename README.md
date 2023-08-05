@@ -10,4 +10,6 @@ unity version: 2020.3.43f1
 
 ![scr1](readme-resources/scr-1.png)
 
+actual application source version: 0.37b alpha
+
 ![scr2](readme-resources/scr-2.png)
