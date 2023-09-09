@@ -1,5 +1,5 @@
 # scp-viewer-2-source
-This code is crap, open at your own risk.
+:zap::zap::zap:```This code is crap, open at your own risk.```:zap::zap::zap:
 
 -------------------------------------
 Application site on [Google play](https://play.google.com/store/apps/details?id=com.URODEngine.SCPViewer2&hl=ru)
